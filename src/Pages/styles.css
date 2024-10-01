@@ -1,0 +1,6 @@
+.vertical-line {
+    border-left: 2px solid rgb(60, 255, 0);
+    height: inherit;
+    width: 10px; 
+  }
+  
